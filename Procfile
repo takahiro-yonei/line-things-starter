@@ -1,1 +1,1 @@
-web: gunicorn --chdir=bot app:app
+web: gunicorn
